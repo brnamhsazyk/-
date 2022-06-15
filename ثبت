@@ -1,1 +1,190 @@
-Channelregistration
+
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>'𝐴𝑟𝑇𝑖𝑁 به پاتوق دعوتت کرده!</title>
+    <meta name="description" content="اپلیکیشن شبکه اجتماعی پاتوق، بهترین دورهمی برای رفاقت، سرگرمی و رقابت! همین حالا عضو شو تا هدیه بگیری." />
+    <meta name="keywords" content="شبکه اجتماعی,پاتوق,پاساژ,patogh,pasaj,پیام رسان,چت,کلوب,پست,عکس,رایگان" />
+    <meta name="image" content="https://patogh.me/U/607/P869607.jpg?v=22">
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="'𝐴𝑟𝑇𝑖𝑁 به پاتوق دعوتت کرده!">
+    <meta itemprop="description" content="اپلیکیشن شبکه اجتماعی پاتوق، بهترین دورهمی برای رفاقت، سرگرمی و رقابت! همین حالا عضو شو تا هدیه بگیری.">
+    <meta itemprop="image" content="https://patogh.me/U/607/P869607.jpg?v=22">
+    <!-- Mobile App for iOS & Android -->
+    <meta name="google-play-app" content="app-id=com.mnhaami.pasaj">
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="'𝐴𝑟𝑇𝑖𝑁 به پاتوق دعوتت کرده!">
+    <meta name="og:description" content="اپلیکیشن شبکه اجتماعی پاتوق، بهترین دورهمی برای رفاقت، سرگرمی و رقابت! همین حالا عضو شو تا هدیه بگیری.">
+    <meta name="og:image" content="https://patogh.me/U/607/P869607.jpg?v=22">
+    <meta name="og:site_name" content="'𝐴𝑟𝑇𝑖𝑁 به پاتوق دعوتت کرده!">
+    <meta name="og:locale" content="fa_IR">
+    <meta name="og:type" content="website">
+    <!-- Open Graph - Mobile App (iOS & Android) -->
+    <meta name="al:android:package" content="com.mnhaami.pasaj">
+    <meta name="al:android:app_name" content="Patogh Social Network">
+    <link rel="apple-touch-icon" sizes="180x180" href="/content/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/content/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/content/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/content/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/content/favicons/safari-pinned-tab.svg" color="#eb0028">
+    <link rel="shortcut icon" href="/content/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#b91d47">
+    <meta name="msapplication-config" content="/content/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" type="text/css" href="/content/join.css" />
+</head>
+ 
+<body>
+    <section id="section-landing">
+        <div>
+            <img class="logo" src="/content/join/logo-patogh_full.svg" />
+            <div>
+                <div class="card-container">
+                    <div class="card">
+                        <img class="card-cover" src="/U/607/C869607.jpg?v=6383" />
+                        <div class="card-cover-shade"></div>
+                        <div class="card-avatar-container">
+                            <img class="card-avatar" src="/U/607/P869607.jpg?v=22" />
+                        </div>
+                        <strong class="card-name">'𝐴𝑟𝑇𝑖𝑁</strong>
+                        <span class="card-user">o.o.0.0</span>
+                        <div id="card-posts" class="card-posts">
+                            <div>
+                                <img src="/P/607/869607/221/T45335682.jpg" />
+                            </div>
+                        </div>
+                        <a class="pill" href="#section-introduction">دنبالش کن!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <h1>'𝐴𝑟𝑇𝑖𝑁 به شبکه اجتماعی پاتوق دعوتت کرده 😊</h1>
+            <div id="download"></div>
+            <h2>همین حالا اپلیکیشن پاتوق رو دانلود کن و عضو شو تا یه هدیه ویژه بگیری!</h2>
+            <div class="download-links-container">
+                <a class="download-link" href="https://play.google.com/store/apps/details?id=com.mnhaami.pasaj">
+                    <img src="/content/join/google-play.svg" />
+                    <div>
+                        <span>دریافت از</span>
+                        <span>گوگل پلی</span>
+                    </div>
+                </a>
+                <a class="download-link" href="https://patogh.me/Content/Patogh.apk">
+                    <img src="/content/join/apk-01.svg" />
+                    <div>
+                        <span>دانلود</span>
+                        <span>فایل APK</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+    <section id="section-introduction">
+        <div>
+            <h3>پاتوق یه دنیای مجازیه برای رفاقت و سرگرمی!</h3>
+            <p>
+                می‌تونی کاربران اطرافت رو پیدا کنی و باهاشون چت کنی، عضو کلوب‌های جنجالی بشی و کل‌کل کنی، توی چالش‌ها
+                شرکت
+                کنی و شهرت به دست بیاری، ...
+            </p>
+            <div class="download-links-container">
+                <a class="download-link" href="https://play.google.com/store/apps/details?id=com.mnhaami.pasaj">
+                    <img src="/content/join/google-play.svg" />
+                    <div>
+                        <span>دریافت از</span>
+                        <span>گوگل پلی</span>
+                    </div>
+                </a>
+                <a class="download-link" href="https://patogh.me/Content/Patogh.apk">
+                    <img src="/content/join/apk-01.svg" />
+                    <div>
+                        <span>دانلود</span>
+                        <span>فایل APK</span>
+                    </div>
+                </a>
+            </div>
+            <h2>منتظر چی هستی؟ دانلود کن و لذت ببر ❤️</h2>
+        </div>
+        <div class="phone-container">
+            <div class="phone">
+                <div class="power-button"></div>
+                <div class="panel">
+                    <div class="notch">
+                        <div></div>
+                    </div>
+                    <div class="statusbar">
+                        <div class="battery-icon"></div>
+                        <div class="signal-icon">
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                            <div></div>
+                        </div>
+                        <div class="wifi-icon">
+                            <div class="wifi-circle first"></div>
+                            <div class="wifi-circle second"></div>
+                            <div class="wifi-circle third"></div>
+                            <div class="wifi-circle fourth"></div>
+                        </div>
+                        <span id="phone-clock" class="operator">07:11</span>
+                    </div>
+                    <div class="content">
+                        <video id="video" poster="/content/join/demo_video_720-poster.png" autoplay="autoplay" loop muted>
+                            <source src="/content/join/demo_video_720.mp4" type="video/mp4">
+                            مرورگرت رو به‌روز رسانی کن!
+                        </video>
+                    </div>
+                </div>
+                <div class="volume-rocker"></div>
+            </div>
+        </div>
+    </section>
+    <script>
+        window.onload = function() {
+            startTime();
+            setThumbHeight();
+ 
+            const video = document.getElementById('video');
+            video.play()
+                .catch((err) => {
+                    if (err.name === 'NotAllowedError') {
+                        // Display PLAY button with a click event listener and play the video there.
+                    }
+                });
+        };
+ 
+        window.onresize = function() {
+            setThumbHeight();
+        }
+ 
+        function startTime() {
+            var today = new Date();
+            var h = today.getHours();
+            var m = today.getMinutes();
+ 
+            m = checkTime(m);
+            document.getElementById('phone-clock').innerHTML = h + ':' + m;
+            var t = setTimeout(startTime, 1000);
+        }
+ 
+        function checkTime(i) {
+            if (i < 10) {
+                i = "0" + i
+            };
+            return i;
+        }
+ 
+        function setThumbHeight() {
+            if (document.getElementById('card-posts').children.length > 0) {
+                var width = document.getElementById('card-posts').children[0].offsetWidth;
+                document.getElementById('card-posts').style.maxHeight = width + 'px';
+            }
+        }
+    </script>
+</body>
+ 
+</html>
